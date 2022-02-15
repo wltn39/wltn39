@@ -1,4 +1,4 @@
-Profile 폐이지 (작성 중..)
+# Profile 폐이지 (작성 중..)
 
 - 👋 Hi, I’m Jisu_Jang.
 - 👀 I’m interested in FunApp Dev. 
