@@ -1,4 +1,4 @@
-# Profile 폐이지 (작성 중..)
+# Profile 페이지 (작성 중..)
 
 ### HTML & CSS 카카오톡 클론 : https://wltn39.github.io/kokoa_clone/
 
