@@ -1,4 +1,6 @@
-# Profile 페이지
+# Profile 
+
+### Github Blog : https://wltn39.github.io/
 
 ### HTML & CSS 카카오톡 클론 : https://wltn39.github.io/kokoa_clone/
 
