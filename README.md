@@ -1,5 +1,7 @@
 # Profile 
 
+
+### [Django 게시판](http://3.39.160.147/)
 ### [Blog](https://velog.io/@wltn39)  
 ### [CCTV 테마지도](https://velog.io/@wltn39/%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%A7%80%EB%8F%84-API-%EC%8B%9C%EC%9E%91)
 ### [투자대회 대화창 구현](https://velog.io/@wltn39/KB-Star-Wars)
