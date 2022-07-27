@@ -3,7 +3,7 @@
 - [Blog](https://velog.io/@wltn39)  
 
 ### My Work
-- [collaboration bulletin board]()
+- [Collaboration Bulletin Board]()
 
 ### Collaborative Work 
 - [DATA/API - CCTV Theme Map](https://velog.io/@wltn39/%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%A7%80%EB%8F%84-API-%EC%8B%9C%EC%9E%91)
