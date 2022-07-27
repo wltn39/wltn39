@@ -15,10 +15,10 @@
 
 ## Clone Coding 
 
-[Django - AirBnB](https://github.com/wltn39/Django_airbnb)
-[Django - Board](http://3.39.160.147/)
-[HTML/CSS - KAKAO CLONE](https://wltn39.github.io/kokoa_clone/)
-[JAVASCRIPT - MOMENTUM](https://wltn39.github.io/mometum_clone/) 
+- [Django - AirBnB](https://github.com/wltn39/Django_airbnb)
+- [Django - Board](http://3.39.160.147/)
+- [HTML/CSS - KAKAO CLONE](https://wltn39.github.io/kokoa_clone/)
+- [JAVASCRIPT - MOMENTUM](https://wltn39.github.io/mometum_clone/) 
 
 ## Study 
 
