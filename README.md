@@ -1,5 +1,7 @@
+## 메마른 땅에 비를 뿌리는 IT 구름 장지수입니다.
+
 ### Profile
-- E-mail : wltn39@gmail.com
+- E-mail :jisu3830@gmail.com
 - [Blog](https://velog.io/@wltn39)  
 
 ### My Work
