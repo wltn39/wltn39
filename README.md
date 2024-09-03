@@ -1,6 +1,6 @@
 ## 메마른 땅에 비를 뿌리는, IT 구름 Gino 입니다.
 
-![제주도 사진_축소](https://github.com/user-attachments/assets/060ceed8-7efc-4a21-881c-d2c42d00591c)
+![제주도 사진_축소](https://github.com/user-attachments/assets/1b6c3be9-63c6-4d18-895d-c2ab9391f3b9)
 - 사회문제 해결을 위한 IT 솔루션을 기획하고 개발하는 예비창업자 겸 PO Gino 입니다.
 - 지금은 이미지트래킹 기반 피트니스 게임을 개발하고 있습니다.
 - 다양한 분들과 다양한 장소에서 사회문제를 해결하기 위한 솔루션을 함께 개발하고 싶습니다!
