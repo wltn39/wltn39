@@ -1,4 +1,4 @@
-## 메마른 땅에 비를 뿌리는 IT 구름 장지수입니다.
+## 메마른 땅에 비를 뿌리는, IT 구름 Gino
 
 ### Profile
 - E-mail :jisu3830@gmail.com
