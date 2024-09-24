@@ -1,4 +1,4 @@
-## 메마른 땅에 비를 뿌리는, IT 구름 Gino 입니다.
+## 도전하는 예비창업자
 
 ![제주도 사진_축소](https://github.com/user-attachments/assets/1b6c3be9-63c6-4d18-895d-c2ab9391f3b9)
 - 사회문제 해결을 위한 IT 솔루션을 기획하고 개발하는 예비창업자 겸 PO Gino 입니다.
