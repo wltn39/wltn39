@@ -1,12 +1,13 @@
-## 도전하는 예비창업자
+## 행복은, 함께, 그리고 도전
 
 ![제주도 사진_축소](https://github.com/user-attachments/assets/1b6c3be9-63c6-4d18-895d-c2ab9391f3b9)
 - 사회문제 해결을 위한 IT 솔루션을 기획하고 개발하는 예비창업자 겸 PO Gino 입니다.
-- 지금은 이미지트래킹 기반 피트니스 게임을 개발하고 있습니다.
+- 지금은 사별한 사람들이 겪는 문제를 해결하는 데이터 기반의 플랫폼을 기획, 개발하고 있습니다. 
 - 다양한 분들과 다양한 장소에서 사회문제를 해결하기 위한 솔루션을 함께 개발하고 싶습니다!
 
 ### Introduce Me
 - [자기소개 마인드맵](https://gitmind.com/app/docs/maxp8xxm)
+- 정부기획서, 제안서, 아이디어 공모전 작성에 진심인 편 [포트폴리오 정리](https://drive.google.com/open?id=14laU0Vz79tyV-_OuPajBPBlDNznQ6p47&usp=drive_fs)
 
 ### Projects
 - [PT Slide] [이미지 트래킹 피트니스 게임 아이템 PT](https://docs.google.com/presentation/d/1RW5g6WVHl4XzLHXT9GBtYmLcuLq0wGEP/edit?usp=sharing&ouid=118250257527086243560&rtpof=true&sd=true)
