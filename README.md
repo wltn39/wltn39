@@ -3,7 +3,6 @@
 ![제주도 사진_축소](https://github.com/user-attachments/assets/1b6c3be9-63c6-4d18-895d-c2ab9391f3b9)
 - IT 솔루션을 기획하고 개발하는 Gino 입니다.
 - 지금은 내 집 마련, 상속분쟁 문제 해결을 위한 실거래가 기반 부동산 서비스를 개발하고 있습니다.
-- 
 
 ### Introduce Me
 - [자기소개 마인드맵](https://gitmind.com/app/docs/maxp8xxm)
